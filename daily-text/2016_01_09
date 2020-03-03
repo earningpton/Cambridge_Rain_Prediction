@@ -1,0 +1,11 @@
+# DTG Weather on Saturday 09 January 2016.
+#
+# Data are immediate at "Time" except wind speed (average since previous "Time")
+# and wind direction (most frequent since previous "Time".)  Sun and rain values
+# are cumulative from "Start".  MxWSpd gives max wind speed since previous "Time".
+#
+#Time	Temp 	Humid	DewPt	Press	WindSp	WindDr	Sun  	Rain	Start	MxWSpd
+#    	deg C	%    	deg C	mBar 	knots 	      	hours	mm  	     	knots 
+00:00	-40.0	15	-56.7	916	26.0	NE	0.00	0.00	00:00	26
+00:30	-40.0	15	-56.7	916	26.0	NE	12.42	0.00	00:00	26
+01:00	35.6	14	-42.4	1058	29.0	NE	16.71	0.00	00:00	251

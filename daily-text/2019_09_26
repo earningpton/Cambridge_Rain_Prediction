@@ -1,0 +1,21 @@
+# DTG Weather on Thursday 26 September 2019.
+#
+# Data are immediate at "Time" except wind speed (average since previous "Time")
+# and wind direction (most frequent since previous "Time".)  Sun and rain values
+# are cumulative from "Start".  MxWSpd gives max wind speed since previous "Time".
+#
+#Time	Temp 	Humid	DewPt	Press	WindSp	WindDr	Sun  	Rain	Start	MxWSpd
+#    	deg C	%    	deg C	mBar 	knots 	      	hours	mm  	     	knots 
+18:00	16.8	58	8.5	1001	9.4	SW	0.05	0.00	18:00	20
+18:30	15.9	63	8.9	1001	8.5	SW	0.14	0.00	18:00	22
+19:00	15.5	67	9.4	1002	7.3	SW	0.14	0.00	18:00	16
+19:30	14.1	73	9.3	1002	6.0	S	0.14	0.00	18:00	14
+20:00	13.6	75	9.2	1003	3.2	SW	0.14	0.00	18:00	12
+20:30	13.2	77	9.2	1003	4.9	S	0.14	0.00	18:00	10
+21:00	12.7	81	9.5	1003	3.2	S	0.14	0.00	18:00	10
+21:30	12.7	85	10.2	1003	4.9	S	0.14	0.00	18:00	12
+22:00	12.7	84	10.1	1003	7.3	S	0.14	0.00	18:00	14
+22:30	12.3	82	9.3	1003	8.6	S	0.14	0.00	18:00	18
+23:00	11.8	89	10.0	1003	7.9	S	0.14	0.00	18:00	16
+23:30	11.8	87	9.7	1003	8.0	S	0.14	0.00	18:00	18
+23:59	11.8	84	9.2	1003	7.7	S	0.14	0.00	18:00	16

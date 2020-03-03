@@ -1,0 +1,26 @@
+# DTG Weather on Saturday 31 May 2014.
+#
+# Data are immediate at "Time" except wind speed (average since previous "Time")
+# and wind direction (most frequent since previous "Time".)  Sun and rain values
+# are cumulative from "Start".  MxWSpd gives max wind speed since previous "Time".
+#
+#Time	Temp 	Humid	DewPt	Press	WindSp	WindDr	Sun  	Rain	Start	MxWSpd
+#    	deg C	%    	deg C	mBar 	knots 	      	hours	mm  	     	knots 
+15:30	17.3	53	7.6	1025	1.0	SW	3.76	0.00	15:30	2
+16:00	18.2	51	7.9	1025	1.6	SW	3.76	0.00	15:30	8
+16:30	16.8	60	9.0	1025	1.5	SW	3.76	0.00	15:30	6
+17:00	16.4	65	9.8	1025	1.0	W	3.76	0.00	15:30	4
+17:30	15.9	66	9.5	1024	1.2	W	3.76	0.00	15:30	6
+18:00	16.4	69	10.7	1025	0.5	SE	3.76	0.00	15:30	2
+18:30	16.4	69	10.7	1024	0.4	SE	3.76	0.00	15:30	4
+19:00	15.9	71	10.6	1025	0.8	SE	3.76	0.00	15:30	4
+19:30	15.9	72	10.8	1025	0.5	SE	3.76	0.00	15:30	2
+20:00	15.5	75	11.1	1024	0.2	SE	3.76	0.00	15:30	2
+20:30	15.5	78	11.7	1024	0.6	SE	3.76	0.04	15:30	2
+21:00	15.0	79	11.4	1024	0.0	SE	3.76	0.04	15:30	2
+21:30	14.5	79	10.7	1025	0.1	SE	3.76	0.04	15:30	2
+22:00	14.5	79	10.9	1025	0.0	SE	3.76	0.04	15:30	0
+22:30	14.5	80	11.1	1024	0.0	SE	3.76	0.04	15:30	0
+23:00	14.1	83	11.2	1025	0.0	SE	3.76	0.04	15:30	0
+23:30	13.6	85	11.1	1024	0.0	SE	3.76	0.04	15:30	0
+23:59	13.2	86	10.9	1024	0.0	SE	3.76	0.04	15:30	0

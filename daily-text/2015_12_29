@@ -1,0 +1,27 @@
+# DTG Weather on Tuesday 29 December 2015.
+#
+# Data are immediate at "Time" except wind speed (average since previous "Time")
+# and wind direction (most frequent since previous "Time".)  Sun and rain values
+# are cumulative from "Start".  MxWSpd gives max wind speed since previous "Time".
+#
+#Time	Temp 	Humid	DewPt	Press	WindSp	WindDr	Sun  	Rain	Start	MxWSpd
+#    	deg C	%    	deg C	mBar 	knots 	      	hours	mm  	     	knots 
+15:00	11.4	95	10.6	1020	6.2	S	0.26	0.00	15:00	14
+15:30	11.4	56	2.9	1020	3.2	S	0.55	0.00	15:00	12
+16:00	11.4	82	8.4	1020	1.8	SE	0.55	0.00	15:00	8
+16:30	11.4	56	2.9	1020	2.9	SE	0.55	0.00	15:00	12
+17:00	11.4	61	4.1	1020	6.7	SE	0.55	0.00	15:00	16
+17:30	11.4	76	7.3	1020	6.7	SE	0.55	0.00	15:00	14
+18:00	11.4	74	6.9	1021	6.7	SE	0.55	0.00	15:00	16
+18:30	11.4	79	7.9	1021	6.8	SE	0.55	0.00	15:00	12
+19:00	11.4	73	6.7	1021	7.4	SE	0.55	0.00	15:00	14
+19:30	11.4	57	3.2	1020	4.4	SE	0.55	0.00	15:00	14
+20:00	11.4	70	6.1	1020	6.7	SE	0.55	0.00	15:00	16
+20:30	11.4	61	4.1	1020	8.6	SE	0.55	0.00	15:00	18
+21:00	11.4	78	7.7	1019	9.1	SE	0.55	0.00	15:00	20
+21:30	11.4	93	10.3	1019	11.3	SE	0.55	0.00	15:00	22
+22:00	11.4	68	5.7	1019	10.6	SE	0.55	0.00	15:00	22
+22:30	11.4	87	9.3	1018	12.9	SE	0.55	0.00	15:00	32
+23:00	11.4	81	8.2	1018	12.9	SE	0.55	0.00	15:00	24
+23:30	11.4	67	5.5	1018	12.6	SE	0.55	0.00	15:00	26
+23:59	11.4	74	6.9	1017	14.5	SE	0.55	0.00	15:00	30

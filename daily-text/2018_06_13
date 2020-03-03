@@ -1,0 +1,14 @@
+# DTG Weather on Wednesday 13 June 2018.
+#
+# Data are immediate at "Time" except wind speed (average since previous "Time")
+# and wind direction (most frequent since previous "Time".)  Sun and rain values
+# are cumulative from "Start".  MxWSpd gives max wind speed since previous "Time".
+#
+#Time	Temp 	Humid	DewPt	Press	WindSp	WindDr	Sun  	Rain	Start	MxWSpd
+#    	deg C	%    	deg C	mBar 	knots 	      	hours	mm  	     	knots 
+13:30	20.0	46	8.0	1018	3.9	SW	0.50	0.00	13:30	10
+14:00	19.5	46	7.6	1018	4.5	SW	0.50	0.00	13:30	10
+14:30	20.0	48	8.7	1017	5.5	S	0.50	0.00	13:30	16
+15:00	20.4	56	11.3	1017	6.5	SW	0.50	0.00	13:30	10
+15:30	20.9	34	4.5	1016	6.2	S	0.50	0.00	13:30	16
+16:00	20.9	52	10.7	1016	8.8	SW	0.68	0.00	13:30	16
