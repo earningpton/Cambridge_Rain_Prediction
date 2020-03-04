@@ -1,0 +1,26 @@
+Statistics Test:													
+1. Normality Tests		check if your data has a Gaussian distribution											
+Shapiro-Wilk Test		whether a data sample has a Gaussian distribution											
+D’Agostino’s K^2 Test		whether a data sample has a Gaussian distribution											
+Anderson-Darling Test		whether a data sample has a Gaussian distribution											
+	if reject = not Gaussian												
+2. Correlation Test			if two samples are related										
+Pearlson:	Assume normal		test linear relationship										
+Spearman:	Assume one is not, rank first			test monotonic relationship									
+Kendall:			test monotonic relationship										
+Chi-Squared Test		whether two categorical variables are related or independent.											
+3. Stationary Tests			check if a time series is stationary										
+Augmented Dickey-Fuller Unit Root Test				whether a time series has a unit root, e.g. has a trend or more generally is autoregressive									
+Kwiatkowski-Phillips-Schmidt-Shin				whether a time series is trend stationary or not									
+4. Parametric Statistical Hypothesis Tests				compare data samples									
+Student’s t-test		whether the means of two independent samples are significantly different											
+Paired Student’s t-test		whether the means of two paired samples are significantly different											
+Analysis of Variance Test (ANOVA)				whether the means of two or more independent samples are significantly different.								F-test	explained var/unexp var = between group/within group
+Repeated Measures ANOVA Test			whether the means of two or more paired samples are significantly different.										
+5. Nonparametric Statistical Hypothesis Tests													
+Komolgorov-Smirnov Test			whether the distributions of two independent samples are equal or not.							KS test is sensitive to any differences in the two distributions			
+Mann-Whitney U Test			whether the distributions of two independent samples are equal or not.							MW test has been extended to handle tied values, eg categorical			
+Wilcoxon Signed-Rank Test			whether the distributions of two paired samples are equal or not.										
+Kruskal-Wallis H Test			whether the distributions of two or more independent samples are equal or not								>= 2 group		
+Friedman Test			whether the distributions of two or more paired samples are equal or not								>= 2 group		
+	Paired = order matter, iid = order doesn't matter												
